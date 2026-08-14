@@ -1,0 +1,29 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter / Colab temporary files
+.ipynb_checkpoints/
+.colab/
+
+# Environment files
+.env
+venv/
+env/
+
+# TensorFlow/Keras and training artifacts
+*.keras
+*.h5
+checkpoints/
+logs/
+model_weights/
+
+# Large datasets & archives
+data/
+dataset/
+*.zip
+
+# Temporary outputs
+tmp/
+temp/
