@@ -1,0 +1,2 @@
+Model,Test Accuracy,Test Loss,Macro F1-Score,Macro ROC AUC,Total Parameters
+VGG16 Fine-Tuned,0.9635,0.1682,0.9638,0.9959,14847044

@@ -1,0 +1,9 @@
+Model,Class,Precision,Recall,F1-Score,Support
+VGG16 Baseline,Glioma,0.9337,0.8212,0.8739,755
+VGG16 Baseline,Meningioma,0.8319,0.8791,0.8549,546
+VGG16 Baseline,Pituitary,0.9467,0.9936,0.9696,626
+VGG16 Baseline,Notumor,0.9417,0.9979,0.9690,486
+MobileNetV2 Baseline,Glioma,0.9184,0.7748,0.8405,755
+MobileNetV2 Baseline,Meningioma,0.7597,0.8223,0.7898,546
+MobileNetV2 Baseline,Pituitary,0.9339,0.9936,0.9628,626
+MobileNetV2 Baseline,Notumor,0.9345,0.9979,0.9652,486
